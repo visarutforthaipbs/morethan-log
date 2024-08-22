@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Visarut Sankham",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    name: "ป๊อป",
+    image: "/avatar-pop.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "วัยรุ่นสร้างตัว",
+    bio: "ในนี้คือไอเดียทั้งหมดที่ผมพยายามคิดขึ้นมาเพื่อหวังว่าจะสามารถใช้ทำเป็นธุรกิจได้",
     email: "visarut298@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `ผลงานที่เคยทำมา`,
+      href: "https://visarutsankham.com/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "ไอ้ป็อป วัยรุ่นสร้างตัว",
     description: "welcome to morethan-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
