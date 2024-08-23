@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
-  profile: {
+  บักนี้มันเป็นไผว่ะ: {
     name: "ป๊อป",
     image: "/avatar-pop.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "วัยรุ่นสร้างตัว",
+    role: "เจ๊กโคก",
     bio: "ในนี้คือไอเดียทั้งหมดที่ผมพยายามคิดขึ้นมาเพื่อหวังว่าจะสามารถใช้ทำเป็นธุรกิจได้",
     email: "visarut298@gmail.com",
     linkedin: "morethanmin",
